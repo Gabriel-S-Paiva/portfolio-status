@@ -1,0 +1,1 @@
+{"generatedAt": 1795289231, "host": {"load1": 0.0, "mem_used_pct": 18, "uptime_s": 2766282}, "services": [{"name": "portfolio", "state": "up", "uptime": "10 days"}, {"name": "gateway", "state": "up", "uptime": "3 months"}, {"name": "cloud \u00b7 proxy", "state": "up", "uptime": "3 months"}, {"name": "cloud \u00b7 api", "state": "up", "uptime": "3 months"}]}
